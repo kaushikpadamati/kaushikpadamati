@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## hey
+- I am a student, currently working with java. 
+- Trying to build my resume and land a job in a tech company and live a stable life.
+- Scratched the surface of python, c, c++; but lacks any experience of using it to do anything.
+- 
 <!--
 **kaushikpadamati/kaushikpadamati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
